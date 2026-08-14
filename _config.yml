@@ -1,0 +1,12 @@
+title: My creative portfolio
+author: Henrik Kimlen (not my real name)
+description: All the different art I made in my life collected here in one place
+theme: minima
+
+# Instellingen voor navigatie en links
+header_pages:
+  - index.md
+  - muziek.md
+  - schilderijen.md
+  - teksten.md
+  - videos.md
