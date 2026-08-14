@@ -6,7 +6,7 @@ theme: minima
 # Instellingen voor navigatie en links
 header_pages:
   - index.md
-  - muziek.md
-  - schilderijen.md
-  - teksten.md
+  - music.md
+  - art.md
+  - writing.md
   - videos.md
